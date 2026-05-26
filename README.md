@@ -2,15 +2,18 @@
 
 Windows preview app for managing Defense Grid 2 community maps.
 
-Download the latest release:
-https://github.com/dg2-community/dg2-maps-manager/releases/latest
+[Download latest release](https://github.com/dg2-community/dg2-maps-manager/releases/latest/download/DG2-Community-Maps-Manager.zip)
 
-Use:
+## Why this app exists
 
-1. Download `DG2-Community-Maps-Manager.zip`.
+...
+
+## Use
+
+1. Download the ZIP.
 2. Extract the full folder.
 3. Start `DG2 Community Maps Manager.exe`.
 
-The app is currently distributed as an unsigned ZIP without an installer or auto-updater.
+## Notes
 
-Catalog updates are handled in the app. GitHub Catalog hosting is planned for later.
+- Unsigned Windows ZIP, no installer.
