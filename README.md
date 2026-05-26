@@ -8,7 +8,7 @@ Windows preview app for managing Defense Grid 2 community maps.
 
 ## Why this app exists
 
-Defense Grid 2 custom maps are still worth playing, but managing them by hand can be awkward.
+Defense Grid 2 custom maps are still worth playing, but installing and managing them by hand can be awkward.
 
 DG2 Community Maps Manager exists to:
 
