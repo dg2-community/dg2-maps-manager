@@ -31,3 +31,4 @@ DG2 Community Maps Manager exists to:
 ## Notes
 
 - Unsigned Windows ZIP, no installer.
+- Unofficial community tool; not affiliated with Defense Grid 2, Hidden Path Entertainment, 505 Games, or dg2freemaps.com.
