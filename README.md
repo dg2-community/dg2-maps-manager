@@ -22,7 +22,7 @@ Browse known DG2 community maps from inside the app instead of searching through
 
 Defense Grid 2 expects map folders to sit directly inside `Documents\DG2`, but Windows ZIP extraction can sometimes create an extra folder layer that breaks map installs.
 
-The manager handles the correct folder structure when importing ZIPs from [dg2freemaps.com](https://www.dg2freemaps.com/category/forever-free-maps/) using either the Import button or drag and drop.
+The manager handles the correct folder structure when importing ZIPs downloaded from [dg2freemaps.com](https://www.dg2freemaps.com/category/forever-free-maps/) using either the Import button or drag and drop.
 
 ### Active map control
 
