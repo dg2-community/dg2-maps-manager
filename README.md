@@ -16,7 +16,7 @@ DG2 Community Maps Manager was created to make the process easier and keep every
 
 ### Built-in map catalog
 
-Browse known DG2 community maps from inside the app instead of searching through scattered download links. See which maps are already in your local library.
+Browse DG2 community maps from inside the app and see which ones are already in your local library. The catalog is an index of known maps and candidates; it does not imply current download availability.
 
 ### Correct ZIP importing
 
